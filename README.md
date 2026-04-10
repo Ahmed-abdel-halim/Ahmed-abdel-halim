@@ -81,21 +81,25 @@ Enterprising Back-End Developer with expertise in **PHP**, **Laravel**, **MySQL*
 
 ---
 
-## `$ git stats --global`
+# Stats and Streak
+<p align="center">
+  <a href="https://github.com/Ahmed-abdel-halim">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassaneldash&theme=radical&border=7F3FBF&background=0D1117" alt="Ahmed-abdel-halim GitHub Streak"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Ahmed-abdel-halim">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-abdel-halim&theme=radical" alt="Ahmed-abdel-halim GitHub Contribution"/>
+  </a>
+</p>
+<a> 
 
-<div align="center">
+<a href="https://github.com/Ahmed-abdel-halim"><img alt="Hassan ELDash's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Ahmed-abdel-halim&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Ahmed-abdel-halim"><img alt="Ahmed-abdel-halim Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-abdel-halim&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+</a>
+<img src="https://wakatime.com/share/@Ahmed-abdel-halim/87411c05-e7ea-4678-89a4-7fad93ab9fcf.svg"/>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=abdelrhman-e-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhman-e-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=abdelrhman-e-dev&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=ff6b6b&currStreakLabel=4FC3F7)
-
-</div>
+  <br/>
 
 > 💡 *Stats are powered by third-party Vercel-hosted services — they render correctly on GitHub profile pages.*
 
