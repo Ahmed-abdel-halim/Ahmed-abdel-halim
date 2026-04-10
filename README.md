@@ -82,7 +82,6 @@ Enterprising Back-End Developer with expertise in **PHP**, **Laravel**, **MySQL*
 <a href="https://github.com/Ahmed-abdel-halim"><img alt="Hassan ELDash's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Ahmed-abdel-halim&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/Ahmed-abdel-halim"><img alt="Ahmed-abdel-halim Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-abdel-halim&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 </a>
-<img src="https://wakatime.com/share/@hassaneldash/87411c05-e7ea-4678-89a4-7fad93ab9fcf.svg"/>
 
   <br/>
 
