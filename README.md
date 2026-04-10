@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=99999&color=0:1f2937,100:111827&background=0D1117&center=true&vCenter=true&width=1000&height=200&lines=Ahmed+Abdelhalim;Full+Stack+Developer;Laravel+%7C+Angular+%7C+Node.js" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=99999&color=0:1f2937,100:111827&background=0D1117&center=true&vCenter=true&width=1000&height=200&lines=Ahmed+Abdelhalim;Full+Stack+Developer;" />
 </p>
 
 <br/>
@@ -88,10 +88,4 @@ Enterprising Back-End Developer with expertise in **PHP**, **Laravel**, **MySQL*
 
 > 💡 *Stats are powered by third-party Vercel-hosted services — they render correctly on GitHub profile pages.*
 
----
 
-<div align="center">
-
-*"First, solve the problem. Then, write the code."* — John Johnson
-
-</div>
