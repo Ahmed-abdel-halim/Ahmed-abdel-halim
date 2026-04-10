@@ -64,22 +64,7 @@ Enterprising Back-End Developer with expertise in **PHP**, **Laravel**, **MySQL*
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## `$ git log --currently-learning`
-
-```json
-{
-  "currently_exploring": [
-    "Advanced Laravel  (Queues, Events, Observers, Horizon)",
-    "Docker & containerized deployments",
-    "TypeScript with Angular  (advanced patterns)",
-    "System Design & scalability principles"
-  ]
-}
-```
-
----
+<hr/>
 
 # Stats and Streak
 <p align="center">
