@@ -86,5 +86,6 @@ Enterprising Back-End Developer with expertise in **PHP**, **Laravel**, **MySQL*
   <br/>
 
 > 💡 *Stats are powered by third-party Vercel-hosted services — they render correctly on GitHub profile pages.*
-
+<hr/>
+![Hassan ELDash's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-abdel-halim&custom_title=Ahmed-abdel-halim0GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
