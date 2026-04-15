@@ -25,11 +25,11 @@
 ```bash
 > name           : Ahmed Abd El Halim
 > role           : Full Stack Developer  (Laravel & PHP)
-> location       : Beni-Suef, Egypt 🇪🇬
+> location       : Cairo, Egypt 🇪🇬
 > education      : BSc Computer Science — Helwan University  (2023)
 > current        : Web Developer @ Business Spike  (Nov 2025 – Present)
 > training       : ITI Full Stack PHP Scholarship — Gov. Funded · 4 months
-> contact        : abdelrhman.e.dev@gmail.com
+> contact        : ahmedholim42@gmail.com
 > status         : Open to opportunities ✅
 ```
 
