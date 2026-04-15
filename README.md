@@ -27,7 +27,7 @@
 > role           : Full Stack Developer  (Laravel & PHP)
 > location       : Cairo, Egypt 🇪🇬
 > education      : BSc Computer Science — Helwan University  (2023)
-> current        : Web Developer @ Business Spike  (Nov 2025 – Present)
+> current        : Web Developer @ Codinity Tech  (Nov 2025 – Present)
 > training       : ITI Full Stack PHP Scholarship — Gov. Funded · 4 months
 > contact        : ahmedholim42@gmail.com
 > status         : Open to opportunities ✅
